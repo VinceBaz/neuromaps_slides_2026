@@ -1,0 +1,10 @@
+neuromaps
+jupyterlab
+numpy
+scipy
+nibabel
+nilearn
+matplotlib
+tqdm
+netneurotools
+pyvista
