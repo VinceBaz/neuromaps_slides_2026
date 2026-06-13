@@ -27,6 +27,14 @@ Then, you can launch the notebook locally with:
 python -m jupyter lab
 ```
 
+# neuromaps - mouse
+
+We're currently working on a spin-off of neuromaps, entirely focused on the mouse. It's currently under development but check it out: https://github.com/netneurolab/neuromaps-mouse
+
+# netneurotools
+
+Our lab also developed netenrutoools: a swiss army knife for network neuroscience. It consists of functions and routines that we often use but that are not part of any established pipeline or package. Check it out: https://github.com/netneurolab/netneurotools
+
 # annotated connectomics
 
 neuromaps is a great tool for annotated connectomics. See our recent review published in [Nature Reviews Neuroscience](https://www.nature.com/articles/s41583-023-00752-3)
